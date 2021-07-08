@@ -1,1 +1,3 @@
 # optimizing-road-nework
+A city has a poor street management system where accidents and traffic jams occur frequently. The city has n intersections which are interconnected by m bidirectional streets. The mayor of the city decides to make every street unidirectional to simplify the road network system so that traffic jams and accidents can be reduced. Our job is to find the direction of each road and also find the number of bridges (or the number of paths which have to be kept bidirectional).
+Note that initially, all the intersections are interconnected. And after assigning directions to the paths, they should remain connected.
